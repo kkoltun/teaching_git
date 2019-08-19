@@ -4,7 +4,7 @@
 
 * Pierwsza z zasad składających się na S.O.L.I.D. (S to SRP czyli Single Responsibility Principle).
 * Mówiąc ogólnie: **każdy moduł (w naszym ujęciu jest to klasa) powinien odpowiadać za jak [najmniejszy|największy] fragment logiki programu**.
-* Robert C. Martin: **klasa powinna mieć [tylko jeden powód|wiele powodów do zmiany]**.
+* Robert C. Martin (Uncle Bob): **klasa powinna mieć [tylko jeden powód|wiele powodów do zmiany]**.
 
 ## Przykład 
 
