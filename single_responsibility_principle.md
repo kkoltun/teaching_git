@@ -1,4 +1,4 @@
-# Zasada Pojedynczej Odpowiedzialności (Single Responsibility Principle)
+# Zasada Pojedynczej Odpowiedzialności
 
 ## Ogólnie
 
