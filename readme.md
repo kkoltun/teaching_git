@@ -1,4 +1,4 @@
-# Zasada Pojedynczej Odpowiedzialności
+# Zmiana Zasad
 
 ## Ogólnie
 
