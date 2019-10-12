@@ -6,3 +6,5 @@ Oznacza to, że można zmienić zachowanie modułu elementu bez zmiany jego kodu
 Jest to szczególnie ważne w środowisku produkcyjnym, gdzie zmiany kodu źródłowego mogą być niewskazane.
 
 Program, który trzyma się tej zasady, nie wymaga zmian w kodzie.
+
+zmiany które sprawdzają czy działa
